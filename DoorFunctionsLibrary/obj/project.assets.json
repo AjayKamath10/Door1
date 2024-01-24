@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\DoorFunctionsLibrary\\DoorFunctionsLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\x6akamat\\Source\\Repos\\Door1\\DoorFunctionsLibrary\\DoorFunctionsLibrary.csproj",
       "projectName": "DoorFunctionsLibrary",
-      "projectPath": "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\DoorFunctionsLibrary\\DoorFunctionsLibrary.csproj",
+      "projectPath": "C:\\Users\\x6akamat\\Source\\Repos\\Door1\\DoorFunctionsLibrary\\DoorFunctionsLibrary.csproj",
       "packagesPath": "C:\\Users\\x6akamat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\x6akamat\\Desktop\\bootcamp\\cs\\DoorFunctionsLibrary\\obj\\",
+      "outputPath": "C:\\Users\\x6akamat\\Source\\Repos\\Door1\\DoorFunctionsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\x6akamat\\AppData\\Roaming\\NuGet\\NuGet.Config",

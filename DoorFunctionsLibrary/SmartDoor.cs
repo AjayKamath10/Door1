@@ -30,7 +30,7 @@ namespace DoorFunctionsLibrary
             doorTimeThreshold = Time;
         }
 
-        public void Open()
+        public override void Open()
         {
             base.Open();
             TimerThresholdReachedEvent?.Invoke(this);
@@ -43,19 +43,6 @@ namespace DoorFunctionsLibrary
             //DoorOpenEvent?.Invoke();
         }
 
-        //public void SimulateTimerCountdown()
-        //{
-        //    // Check if the door is open for more than the threshold
-        //    if (state == DoorStates.OPEN && TimerThresholdReachedEvent <= 0)
-        //    {
-        //        // Notify subscribers
-        //        TimerThresholdReachedEvent?.Invoke(this);
-        //    }
-        //    else if (DoorStates == DoorStates.OPEN)
-        //    {
-        //        // Decrease the timer threshold
-        //        timerThreshold--;
-        //    }
         
 
 

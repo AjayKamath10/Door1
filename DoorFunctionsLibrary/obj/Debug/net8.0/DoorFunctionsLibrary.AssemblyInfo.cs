@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoorFunctionsLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c383345ee3df99e80bd5066627a28aefb546cd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoorFunctionsLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoorFunctionsLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

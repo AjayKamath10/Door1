@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DoorFunctionsLibrary
-build_property.ProjectDir = C:\Users\x6akamat\Desktop\bootcamp\cs\DoorFunctionsLibrary\
+build_property.ProjectDir = C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

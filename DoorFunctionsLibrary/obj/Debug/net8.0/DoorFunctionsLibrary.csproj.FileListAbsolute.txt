@@ -9,3 +9,15 @@ C:\Users\x6akamat\Desktop\bootcamp\cs\DoorFunctionsLibrary\obj\Debug\net8.0\Door
 C:\Users\x6akamat\Desktop\bootcamp\cs\DoorFunctionsLibrary\obj\Debug\net8.0\refint\DoorFunctionsLibrary.dll
 C:\Users\x6akamat\Desktop\bootcamp\cs\DoorFunctionsLibrary\obj\Debug\net8.0\DoorFunctionsLibrary.pdb
 C:\Users\x6akamat\Desktop\bootcamp\cs\DoorFunctionsLibrary\obj\Debug\net8.0\ref\DoorFunctionsLibrary.dll
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\bin\Debug\net8.0\DoorFunctionsLibrary.deps.json
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\bin\Debug\net8.0\DoorFunctionsLibrary.dll
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\bin\Debug\net8.0\DoorFunctionsLibrary.pdb
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\obj\Debug\net8.0\DoorFunctionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\obj\Debug\net8.0\DoorFunctionsLibrary.AssemblyInfoInputs.cache
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\obj\Debug\net8.0\DoorFunctionsLibrary.AssemblyInfo.cs
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\obj\Debug\net8.0\DoorFunctionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\obj\Debug\net8.0\DoorFunctionsLibrary.sourcelink.json
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\obj\Debug\net8.0\DoorFunctionsLibrary.dll
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\obj\Debug\net8.0\refint\DoorFunctionsLibrary.dll
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\obj\Debug\net8.0\DoorFunctionsLibrary.pdb
+C:\Users\x6akamat\Source\Repos\Door1\DoorFunctionsLibrary\obj\Debug\net8.0\ref\DoorFunctionsLibrary.dll

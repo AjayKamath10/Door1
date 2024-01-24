@@ -12,7 +12,6 @@ namespace DoorFunctionsLibrary
         CLOSE
     }
 
-    //public delegate void DoorOpenEventHandler{object sender}
     public class SimpleDoor
     {
         public DoorStates state { get; private set; }
@@ -26,7 +25,7 @@ namespace DoorFunctionsLibrary
             this.price = Price;
         }
 
-        public void Open()
+        public virtual void Open()
         {
             this.state = DoorStates.OPEN;
             
